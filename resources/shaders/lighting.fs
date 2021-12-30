@@ -15,8 +15,8 @@ out vec4 finalColor;
 
 // NOTE: Add here your custom variables
 
-#define     MAX_LIGHTS              8
-#define     LIGHT_DIRECTIONAL       1
+#define     MAX_LIGHTS              7
+#define     LIGHT_DIRECTIONAL       7
 #define     LIGHT_POINT             0
 
 struct MaterialProperty {

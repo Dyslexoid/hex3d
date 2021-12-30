@@ -1,7 +1,7 @@
 # Created by Kenney (www.kenney.nl)
 
 newmtl water
-Kd 0.5242524 0.9339623 0.8850569
+Kd 0.5242524 0.5339623 0.9850569
 
 newmtl sand
 Kd 0.9607843 0.7803922 0.6156863

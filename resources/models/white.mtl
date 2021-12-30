@@ -1,6 +1,7 @@
 # Blender MTL File: 'None'
-# Material Count: 2
+# Material Count: 1
 
-newmtl white
-Kd 0.886274 0.813725 0.941176
-d 1.000000
+newmtl dirt.004
+Kd 0.900000 0.800000 0.800000
+Tr 0.9
+illum 1.0
